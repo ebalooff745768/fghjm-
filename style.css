@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:lightblue;
+     border: 3px solid lightblue;
+    border-radius: 10px;
+}
+header img{
+    height: 40px;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+}
+h1{
+    color: black
+}
+footer p{
+    border:1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+}
+nav{
+    background-color:lightblue;
+    border-radius: 10px ;
+    border: 2px solid black;
+    
+}
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+    padding: 30px;
+    
+}
+.zxc{
+    background-color:lightblue;
+    border-radius: 10px ;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.zxc{
+    border: 3 px solid black;
+    border-radius: 10px;
+}
